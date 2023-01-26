@@ -1,0 +1,7 @@
+{
+    "purescript.formatter": "purs-tidy",
+    "purescript.addNpmPath": true,
+    "[purescript]": {
+        "editor.formatOnSave": true
+    }
+}
